@@ -1,6 +1,6 @@
 # InMoov Animatronic Head
 
-An open-source [InMoov](https://inmoov.fr/) head build, focused on the software side — currently working toward eye tracking. Goal is to understand the full mechatronic stack end to end (mechanical, electrical, software) rather than just the parts that are comfortable.
+An open-source [InMoov]([https://inmoov.fr/](https://inmoov.fr/headi2/)) head build, focused on the software side — currently working toward eye tracking. Goal is to understand the full mechatronic stack end to end (mechanical, electrical, software) rather than just the parts that are comfortable.
 
 ## Status: Hardware assembled, software not started
 
