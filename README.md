@@ -26,8 +26,9 @@ This is a living document — it'll get updated as decisions get made and code g
 ```
 
 ## Photos
+```
 
-*(Add 2–3 photos here of the assembled head — front view, servo mounting close-up, and a wiring shot if you have one. Drop the image files in `/media` and reference them like:)*
+(Add 2–3 photos here of the assembled head — front view, servo mounting close-up, and a wiring shot if you have one. Drop the image files in `/media` and reference them like:)*
 
 ```markdown
 ![Head assembled, front view](media/head-front.jpg)
