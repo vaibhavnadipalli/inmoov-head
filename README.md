@@ -26,14 +26,14 @@ TBD. Board choice isn't locked in yet. Will update this section (and the `/softw
 ## Photos
 
 <p align="center">
-  <img src="media/IMG_9847.HEIC" width="32%" alt="Front View" />
-  <img src="media/IMG_9848.HEIC" width="32%" alt="Three-Quarter Angle" />
-  <img src="media/IMG_9849.HEIC" width="32%" alt="Left Profile" />
+  <img src="media/IMG_9847.jpg" width="32%" alt="Front View" />
+  <img src="media/IMG_9848.jpg" width="32%" alt="Three-Quarter Angle" />
+  <img src="media/IMG_9849.jpg" width="32%" alt="Left Profile" />
 </p>
 <p align="center">
-  <img src="media/IMG_9850.HEIC" width="32%" alt="Rear View" />
-  <img src="media/IMG_9851.HEIC" width="32%" alt="Right Profile" />
-  <img src="media/IMG_9852.HEIC" width="32%" alt="Alternative Angle" />
+  <img src="media/IMG_9850.jpg" width="32%" alt="Rear View" />
+  <img src="media/IMG_9851.jpg" width="32%" alt="Right Profile" />
+  <img src="media/IMG_9852.jpg" width="32%" alt="Alternative Angle" />
 </p>
 
 ## Why this project
